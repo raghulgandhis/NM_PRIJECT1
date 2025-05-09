@@ -1,7 +1,3 @@
-Here's a detailed and professional `README.md` file for your project on **Customer Churn Prediction using Machine Learning**, including team member roles and expanded content to reflect a real-world data science project.
-
----
-
 # 📉 Customer Churn Prediction using Machine Learning
 
 ## 🔍 Overview
