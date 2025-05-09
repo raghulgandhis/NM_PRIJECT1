@@ -65,11 +65,11 @@ Model performance was evaluated using:
 
 | Member Name  | Role                                     | Responsibilities                                                                                            |
 | ------------ | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Member 1** | Project Manager / Business Analyst       | Defined the problem statement, coordinated team tasks, aligned business goals with technical outcomes.      |
-| **Member 2** | Data Engineer                            | Handled data collection, cleaning, preprocessing, and feature engineering.                                  |
-| **Member 3** | Machine Learning Engineer                | Built and tuned machine learning models, performed cross-validation and optimization.                       |
-| **Member 4** | Data Analyst                             | Performed exploratory data analysis, generated visualizations and insights, assisted in feature selection.  |
-| **Member 5** | Model Evaluation & Deployment Specialist | Evaluated model performance, applied explainability tools (SHAP/LIME), and contributed to deployment setup. |
+| **S.RAGHUL GANDHI** | Project Manager / Business Analyst       | Defined the problem statement, coordinated team tasks, aligned business goals with technical outcomes.      |
+| **P.MOHAMMED IRSHAD AHAMED** | Data Engineer                            | Handled data collection, cleaning, preprocessing, and feature engineering.                                  |
+| **P.IDHAYA** | Machine Learning Engineer                | Built and tuned machine learning models, performed cross-validation and optimization.                       |
+| **AARIF SUHAIL** | Data Analyst                             | Performed exploratory data analysis, generated visualizations and insights, assisted in feature selection.  |
+| **A.ALTHAF BASHA** | Model Evaluation & Deployment Specialist | Evaluated model performance, applied explainability tools (SHAP/LIME), and contributed to deployment setup. |
 
 ---
 
