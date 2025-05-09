@@ -95,7 +95,7 @@ Model performance was evaluated using:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/customer-churn-ml.git
+   git clone :https://github.com/raghulgandhis/NM_PRIJECT1
    cd customer-churn-ml
    ```
 
@@ -113,6 +113,6 @@ Model performance was evaluated using:
 
 For any inquiries or collaborations, feel free to contact any team member or raise an issue in the repository.
 
----
+---raghul31102005@gmail.com
 
 Would you like a project report or presentation template based on this content?
